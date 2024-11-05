@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-markdown": "^9.0.1",
+    "react-quill": "^2.0.0",
+    "react-router-dom": "^6.27.0",
+    "react-treebeard": "^3.2.4"
+  }
+}
